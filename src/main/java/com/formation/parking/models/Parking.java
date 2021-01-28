@@ -1,6 +1,8 @@
 package com.formation.parking.models;
 
 public class Parking {
+	
+	private int identifiant;
 
     private String nom;
     
@@ -41,6 +43,12 @@ public class Parking {
 	}
 	public void setHeureMaj(String heureMaj) {
 		this.heureMaj = heureMaj;
+	}
+	public int getIdentifiant() {
+		return identifiant;
+	}
+	public void setIdentifiant(int identifiant) {
+		this.identifiant = identifiant;
 	}
     
 	

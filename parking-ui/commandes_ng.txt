@@ -1,0 +1,53 @@
+Formation : https://www.udemy.com/course/votre-premiere-app-web-angular-springboot/
+
+====
+
+Installer CLI de Angular :
+
+npm install -g @angular/cli
+
+====
+
+Créer le projet :
+
+ng new parking-ui
+
+====
+
+Démarrer serveur :
+
+ng serve
+
+====
+
+Créer un composant :
+
+ng generate component parkings
+
+Créer un composant dans app :
+
+ng g c parking-detail --module app
+
+====
+
+Créer un service :
+
+ng generate service parkings
+
+====
+
+Liste des composants de angular material : https://material.angular.io/
+
+Ajouter un composant externe :
+
+ng add @angular/material
+
+Ajouter le module angular material avant de l'utiliser (voir documentation, onglet API) : toolbar, card...
+
+====
+
+Ajout d'un module routing pour l'application (option : app) et à la racine du projet (option : flat) :
+
+ng generate module app-rooting --module app --flat
+
+====

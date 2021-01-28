@@ -52,6 +52,7 @@ public class ParkingServiceImpl implements IParkingService {
 		{
 			Parking parking = new Parking();
 			
+			parking.setIdentifiant(record.getFields().getGrpIdentifiant());
 			parking.setNom(record.getFields().getGrpNom());
 			parking.setStatut(record.getFields().getLibelleStatut());
 			parking.setNbPlacesDispo(record.getFields().getGrpDisponible());

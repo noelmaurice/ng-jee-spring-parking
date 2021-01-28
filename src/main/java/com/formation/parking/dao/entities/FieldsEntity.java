@@ -12,6 +12,9 @@ public class FieldsEntity {
 	@JsonProperty(value="idObject")
 	private int idObject;
 	
+	@JsonProperty(value="grp_identifiant")
+	private int grpIdentifiant;
+	
 	@JsonProperty(value="grp_nom")
 	private String grpNom;
 	
@@ -59,6 +62,17 @@ public class FieldsEntity {
 		}
 	}
 
+	
+	public int getGrpIdentifiant() {
+		return grpIdentifiant;
+	}
+
+
+	public void setGrpIdentifiant(int grpIdentifiant) {
+		this.grpIdentifiant = grpIdentifiant;
+	}
+
+	
 	public int getIdObject() {
 		return idObject;
 	}
