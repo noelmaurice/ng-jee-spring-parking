@@ -1,6 +1,6 @@
 # ng-jee-spring-parking
 
-# Partie back-end
+## Partie back-end
 
 L'application principale se trouve à la racine de l'arborescence du projet. Cette application est réalisée avec le framework Sring et le langage JEE. 
 
@@ -8,7 +8,7 @@ Elle fournie les web services qui interrogent les "open data" de la métropole d
 
 Le lancement de cette application dans un serveur Apache se fait via Spring Boot. 
 
-# Partie front-end
+## Partie front-end
 
 L'IHM d'affichage des disponibilités des parkings est réalisée avec le framework Angular. Cette application est disponible dans le sous-répertoire du projet "parking-ui". 
 
