@@ -16,8 +16,9 @@ Le principe de cette application est d'interroger les web services de l'applicat
 
 ## Démonstration
 
-https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parking.png
+<img src="https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parkings.png">Affichage des parkings et des disponibilités</img>
 
-https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parkings.png
+
+<img src="https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parkings.png">Affichage des détails d'un parking et de ses disponibilités</img>
 
 **Enjoy ;)**
