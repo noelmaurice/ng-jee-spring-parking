@@ -8,11 +8,11 @@ Ce projet est un projet pédagogique. En règle générale, par souci de discré
 
 ## Affichage des parkings et de leur disponibilité :
 
-<img src="https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parkings.png" />
+<img src="doc/demo/parkings.png" />
 
 ## Affichage du détail d'un parking
 
-<img src="https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parkings.png" />
+<img src="doc/demo/parkings.png" />
 
 
 ## Partie back-end
