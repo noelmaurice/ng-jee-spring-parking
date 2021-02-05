@@ -14,4 +14,10 @@ L'IHM d'affichage des disponibilités des parkings est réalisée avec le framew
 
 Le principe de cette application est d'interroger les web services de l'application principale pour obtenir les informations de disponibilité des parkings en temps réel, et ensuite de les afficher à l'utilisateur.
 
+## Démonstration
+
+https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parking.png
+
+https://github.com/noelmaurice/ng-jee-spring-parking/blob/jee-spring/doc/demo/parkings.png
+
 **Enjoy ;)**
